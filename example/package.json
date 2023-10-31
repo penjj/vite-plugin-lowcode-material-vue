@@ -1,0 +1,20 @@
+{
+  "name": "lowcode-material-vue-example",
+  "private": true,
+  "version": "0.0.0-alpha.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite build --watch",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.3.7"
+  },
+  "devDependencies": {
+    "@unocss/reset": "^0.53.1",
+    "unocss": "^0.53.1",
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite-plugin-build": "^0.10.0",
+    "vite-plugin-lowcode-material-vue": "workspace:*"
+  }
+}

@@ -1,4 +1,4 @@
-# vite-plugin-lowcode-vue-material
+# vite-plugin-lowcode-material-vue
 
 用来构建适用于 @knxcloud/lowcode-engine-vue 项目物料的vite插件和项目结构示例项目。
 
@@ -6,7 +6,7 @@
 
 ```bash
 
-git clone https://github.com/penjj/vite-plugin-lowcode-vue-material.git
+git clone https://github.com/penjj/vite-plugin-lowcode-material-vue.git
 
 corepack enable # 如果你没有运行过这行，需要node版本大于16
 
@@ -23,7 +23,7 @@ example/ 下关于配置方法有详细注释, 有疑问可以提ISSUE。方便�
 ## Install
 
 ```bash
-pnpm i vite-plugin-lowcode-vue-material -D
+pnpm i vite-plugin-lowcode-material-vue -D
 ```
 
 ## Usage

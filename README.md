@@ -1,5 +1,7 @@
 # vite-plugin-lowcode-vue-material
 
+用来构建适用于 @knxcloud/lowcode-engine-vue 项目物料的vite插件和项目结构示例项目。
+
 ## 示例项目如何使用？
 
 ```bash
